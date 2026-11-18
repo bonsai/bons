@@ -15,6 +15,7 @@ BONS is a community-driven hub for discovering, organizing, and participating in
 ## Product documents
 
 - [Product Requirements Document](docs/PRD.md)
+- [Core product roadmap](docs/CORE-ROADMAP.md)
 - [Dance assessment roadmap and implementation issues](docs/DANCE-ROADMAP.md)
 
 ## Core experience
